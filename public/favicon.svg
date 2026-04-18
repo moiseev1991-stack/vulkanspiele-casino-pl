@@ -1,7 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Favicon logo A">
-  <rect x="0" y="0" width="64" height="64" rx="12" fill="#0B2A78"/>
-  <!-- Outer red mark -->
-  <path d="M8 50 L28.5 10 H36 L56 50 H48.5 L32 18 L15.5 50 Z" fill="#FF4B3E"/>
-  <!-- Inner white cut -->
-  <path d="M17 50 L31.7 21.5 L40.5 38.2 L47 50 H39.8 L31.9 35.6 L24.2 50 Z" fill="#FFFFFF"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Favicon A">
+  <rect width="64" height="64" rx="8" fill="#1348F4"/>
+  <path fill="#FF0000" d="M8 52L31.5 10L56 52H47.5L31.5 24L16.5 52Z"/>
+  <path fill="#FFFFFF" d="M23 44L31.5 29L40.5 44H35.5L31.5 37L27.5 44Z"/>
 </svg>
