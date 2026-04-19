@@ -29,14 +29,14 @@ export const metadata: Metadata = {
     index: true,
     follow: true,
   },
-  verification: {
-    google: 'pHUu9ASMrURLfschf-Hpz-2J30ylTXtvg4frOx3NQRE',
-  },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="pl" className={inter.variable}>
+      <head>
+        <meta name="google-site-verification" content="pHUu9ASMrURLfschf-Hpz-2J30ylTXtvg4frOx3NQRE" />
+      </head>
       <body className="bg-bgDark text-white antialiased font-sans min-h-screen flex flex-col">
         <Header />
         <main className="flex-1 pb-16 md:pb-0">{children}</main>
