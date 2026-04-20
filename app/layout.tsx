@@ -35,7 +35,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="pl" className={inter.variable}>
       <head>
-        <meta name="google-site-verification" content="pHUu9ASMrURLfschf-Hpz-2J30ylTXtvg4frOx3NQRE" />
+        <meta name="google-site-verification" content="soIxNfaFKK8uM5Ab5wnN7lruXlY5cBMVNEeVAbFGHY4" />
       </head>
       <body className="bg-bgDark text-white antialiased font-sans min-h-screen flex flex-col">
         <Header />
